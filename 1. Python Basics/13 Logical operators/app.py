@@ -1,8 +1,3 @@
-from pickle import FALSE
-from sre_parse import FLAGS
-from tkinter import Y
-
-
 x = 1
 y = 2
 
