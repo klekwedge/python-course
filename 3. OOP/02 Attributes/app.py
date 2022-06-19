@@ -12,7 +12,7 @@ print(mazda_car.name)
 print(mazda_car.is_crashed)
 print(mazda_car.wheels_number)
 
-bmw_car = Car(name='BMW', color='black', year=2018, is_crashed=False_)
+bmw_car = Car(name='BMW', color='black', year=2018, is_crashed=False)
 print(bmw_car.name)
 print(bmw_car.year)
 print(bmw_car.wheels_number)
