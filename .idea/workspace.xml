@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b88b10c-b296-401a-b6e7-31a548fca92a" name="Changes" comment="" />
+    <list default="true" id="3015443a-91a3-4144-8953-35a10fb4d1f6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python-course.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +19,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2AoHm5ThsxktU4EoUq1lrPEpd4J" />
+  <component name="ProjectId" id="2ApW6TaFTTRDy1GGvBkQBLAnipM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -28,11 +34,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2b88b10c-b296-401a-b6e7-31a548fca92a" name="Changes" comment="" />
-      <created>1655669178216</created>
+      <changelist id="3015443a-91a3-4144-8953-35a10fb4d1f6" name="Changes" comment="" />
+      <created>1655706838065</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1655669178216</updated>
+      <updated>1655706838065</updated>
     </task>
     <servers />
   </component>
