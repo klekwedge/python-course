@@ -24,7 +24,7 @@ print(user_dict.get('name'))
 
 def get_dict_values(dict, key):
   '''
-  if dict has not 
+  If dictionary hasn't specified key, the function returns None
   '''
   try:
     return dict[key]
