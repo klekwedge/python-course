@@ -1,6 +1,3 @@
-from typing import Type
-
-
 print('Some code')
 # print(my_variable)
 
