@@ -1,10 +1,6 @@
 # for number in range(1, 10):
 #     print(number)
 
-
-from tracemalloc import stop
-
-
 class MyRange:
     def __init__(self, start, end):
         self.start = start
