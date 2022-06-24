@@ -1,0 +1,7 @@
+print(2 + 2)
+print(3 - 5)
+print(5 * 10)
+print(5 / 2)
+print(5 // 2)
+print(7 % 3)
+print(type(1 / 1))
