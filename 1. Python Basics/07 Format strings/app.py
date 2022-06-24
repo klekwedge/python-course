@@ -29,14 +29,14 @@ print(week_days)
 week_days = 'There are 7 days in a week: {mo}, {tu}, {we}, {th},' \
             ' {fr}, {sa}, {su}.' \
     .format(mo='Monday', we='Wednesday', th='Thursday', tu='Tuesday', fr='Friday', su='Sunday',
-    sa='Saturday')
+            sa='Saturday')
 print(week_days)
 
 week_days = 'There are 7 days in a week: {su}, {su}, {su}, {su}, {su},' \
             ' {su}, {su}.' \
-    .format(mo = 'Monday', we = 'Wednesday', th = 'Thursday',
-            tu = 'Tuesday', fr = 'Friday', su = 'Sunday',
-            sa = 'Saturday')
+    .format(mo='Monday', we='Wednesday', th='Thursday',
+            tu='Tuesday', fr='Friday', su='Sunday',
+            sa='Saturday')
 print(week_days)
 
 

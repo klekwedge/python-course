@@ -32,9 +32,9 @@ for number in range(10):
 #     print(emoticons)
 
 for number in range(1, 11):
-  print('u' * number)
+    print('u' * number)
 
 counter = 1
 while counter < 11:
-  print('u' * counter)
-  counter += 1
+    print('u' * counter)
+    counter += 1

@@ -53,7 +53,7 @@ print(f'New list {new_list}')
 deleted = new_list.remove(12)
 print(deleted)
 
-# Sort  
+# Sort
 number_list = [45, 12, 3212, 3432, 556]
 letter_list = ['s', 'w', 'c', 'f']
 
@@ -66,7 +66,7 @@ letter_list.sort()
 print(f'Number list {number_list}')
 print(f'Letter list {letter_list}')
 
-# Reverse  
+# Reverse
 number_list.reverse()
 letter_list.reverse()
 

@@ -23,5 +23,5 @@ print(number_set)
 number_set = {number**2 for number in range(3, 11)}
 print(number_set)
 
-letter_set  = {letter.upper() for letter in 'hello'}
+letter_set = {letter.upper() for letter in 'hello'}
 print(letter_set)

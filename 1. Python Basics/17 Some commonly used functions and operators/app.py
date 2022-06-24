@@ -1,4 +1,6 @@
 # range
+from random import randint
+from random import shuffle
 for x in range(10):
     print(x)
 
@@ -55,14 +57,12 @@ print(max(my_list))
 print(max('Hello'))
 
 for letter in 'Hello':
-  print(ord(letter))
+    print(ord(letter))
 
 # random
-from random import shuffle
-my_list = [1, 4532, 632, 25, 331,231,665,31]
+my_list = [1, 4532, 632, 25, 331, 231, 665, 31]
 shuffle(my_list)
 print(my_list)
 
-from random import randint
 print(randint(1, 10))
 print(randint(12, 100))

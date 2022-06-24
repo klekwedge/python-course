@@ -38,12 +38,12 @@ print('Another code')
 
 for item in my_list:
     if item == 2:
-      break
+        break
     print(item)
 print('Another code')
 
 for item in my_list:
     if item == 2:
-      continue
+        continue
     print(item)
 print('Another code')

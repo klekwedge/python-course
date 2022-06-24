@@ -20,17 +20,17 @@ set_from_tuple = set(text_tuple)
 set_from_list.add(123)
 set_from_tuple.add('Hello')
 
-set_from_list.add(123) 
+set_from_list.add(123)
 set_from_tuple.add('Hello')
 
 x = set_from_list.pop()
 y = set_from_list.remove(56)
 print(x, y)
 
-set_from_list.discard(5) 
+set_from_list.discard(5)
 
 # set_from_list.remove(5321) Wrong
-set_from_list.discard(4642) # Right
+set_from_list.discard(4642)  # Right
 
 print(set_from_list)
 print(set_from_tuple)
